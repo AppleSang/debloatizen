@@ -1,0 +1,15 @@
+{
+  "name": "@applesang/debloatizen",
+  "appName": "DebloatTizen",
+  "version": "0.0.1",
+  "description": "Debloat Pre-Installed App On TV Samsung.",
+  "packageType": "app",
+  "appPath": "index.html",
+  "author": "AppleSang",
+  "serviceFile": "",
+  "keys": [],
+  "repository": {
+    "url": "https://github.com/AppleSang/debloatizen"
+  },
+  "license": "GPL-3.0-only"
+}
